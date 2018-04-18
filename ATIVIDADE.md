@@ -6,9 +6,10 @@
 + Item 2
 + Item 3
 
-...
+```c
 #include <stdio.h>
 int main (){
         printf("Olá GitHub");
         return 0;
 }
+```
